@@ -64,5 +64,4 @@ describe Person do
       expect(spencer.handed).to eq(spencer_attributes[:handed])
     end
   end
-
 end
